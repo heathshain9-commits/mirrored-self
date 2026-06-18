@@ -1,0 +1,6 @@
+{
+  "name": "Mirrored Self-Awareness",
+  "description": "An interactive philosophical mirror that distorts, delays, and shatters your reflection.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
